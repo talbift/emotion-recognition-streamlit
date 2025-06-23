@@ -1,6 +1,4 @@
 # app.py
-pip install tensorflow 
-pip install opencv-python-headless
 
 import streamlit as st
 import numpy as np
